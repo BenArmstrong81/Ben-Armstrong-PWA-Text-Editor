@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#Node Modules, Env File and DS_Store:
+node_modules
+.env
+.DS_Store

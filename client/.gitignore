@@ -67,3 +67,8 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+#Node Modules, Env File and DS_Store:
+node_modules
+.env
+.DS_Store
