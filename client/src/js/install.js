@@ -27,4 +27,6 @@ butInstall.addEventListener('click', async () => {
 window.addEventListener('appinstalled', (event) => {
      // Clear prompt
   window.deferredPrompt = null;
+    // Hide the button by adding the 'hidden' class
+    butInstall.classList.toggle("hidden", true);
 });
