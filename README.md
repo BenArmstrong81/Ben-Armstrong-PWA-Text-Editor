@@ -103,8 +103,6 @@ Lastly to launch the application:
 npm run start
 ```
 # Usage
-To view this application,the following image shows the landing page of the application, or click on the page link that demonstrates the functionality of this project: <https://drive.google.com/file/d/1EOsd6Ku0YDq7rSSorPgvKGMy1k4rfGYe/view?usp=sharing>
-
 Deployed Application on Heroku:
 ![Deployed Application on Heroku.](./client/src/images/BenArmstrong_Heroku_Deployed_Application.PNG)
 
