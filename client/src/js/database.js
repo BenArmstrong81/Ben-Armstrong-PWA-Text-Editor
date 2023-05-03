@@ -13,7 +13,7 @@ const initdb = async () =>
   });
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
-export const poutDb = async (content)  => {
+export const putDb = async (content)  => {
   console.log('Post to the database');
   // Create a connection to the database database and version we want to use.
   const jateDb = await openDB('jate', 1);
