@@ -87,28 +87,41 @@ Building on the two thirds of the course and extending on from the last couple w
 
 # Deployment
 
-[Click here for the deployed application](https://.herokuapp.com/) <br/>
+[Click here for the deployed application](https://tranquil-cliffs-58618.herokuapp.com/) <br/>
 ![Heroku](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)
 # Installation  
-
+To install packages:
 ```
 npm install
 ```
-
+Next the application will build and bundle files:
+```
+npm run build
+```
+Lastly to launch the application:
+```
+npm run start
+```
 # Usage
 To view this application,the following image shows the landing page of the application, or click on the page link that demonstrates the functionality of this project: <https://drive.google.com/file/d/1EOsd6Ku0YDq7rSSorPgvKGMy1k4rfGYe/view?usp=sharing>
 
-The following animation demonstrates the application functionality:
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+Deployed Application on Heroku:
+![Deployed Application on Heroku.](./client/src/images/BenArmstrong_Heroku_Deployed_Application.PNG)
 
-The following image shows the application's `manifest.json` file:
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+Application Installation:
+![Application Installation.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_Installation.PNG)
 
-The following image shows the application's registered service worker:
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
+Deployed Application on Heroku and Installed Application Interface:
+![Deployed Application on Heroku and Installed Application Interface.](./client/src/images/BenArmstrong_Heroku_Deployed_ApplicationAnd_Interface.PNG)
 
-The following image shows the application's IndexedDB storage:
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+Deployed Application Manifest:
+![Deployed Application Manifest.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_Manifest.PNG)
+
+Deployed Application Service Workers:
+![Deployed Application Service Workers.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_ServiceWorkers.PNG)
+
+Deployed Application Data Base:
+![Deployed Application Data Base.](./client/src/images/BenArmstrong_Heroku_Deployed_Application_DataBase.PNG)
 
 # Made-With
 
